@@ -1,6 +1,6 @@
 <h1 align="center">✨ Oi! Eu sou a Ysla</h1>
 
-<p align="center">💻 Desenvolvedora em transição criativa | 🎨 Explorando Front-End & UX Design | 🧠 Experiência sólida em Back-End</p>
+<p align="center">💻 Desenvolvedora de Software | 🎨 Explorando Front-End & UX Design | 🧠 Experiência sólida em Back-End e BFF </p>
 
 ---
 
