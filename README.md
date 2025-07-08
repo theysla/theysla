@@ -1,14 +1,12 @@
 <h1 align="center">✨ Oi! Eu sou a Ysla</h1>
 
-<p align="center">💻 Desenvolvedora de Software | 🎨 Explorando Front-End & UX Design | 🧠 Experiência sólida em Back-End e BFF </p>
+<p align="center">💻 Desenvolvedora de Software | 🧠 Experiência em Back-End e BFF </p>
 
 ---
 
 ### 🌱 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com **3 anos de experiência prática como desenvolvedora back-end**, atuando com **Java, Kotlin e arquitetura BFF (Backend for Frontend)**. Já participei de grandes projetos utilizando **Spring Boot**, **APIs REST**, **controle de versão com Git** e **bancos relacionais como MySQL e PostgreSQL**.
-
-Atualmente, estou ampliando minha atuação para o lado do **Front-End** e do **UX Design**, conectando o código com a experiência real do usuário. Minha missão é unir minha bagagem técnica com criatividade e empatia para construir soluções completas e acessíveis.
 
 ---
 
